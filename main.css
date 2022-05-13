@@ -1,0 +1,500 @@
+@import url('https://fonts.googleapis.com/css2?family=Klee+One:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Klee+One:wght@600&family=Lilita+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Klee+One:wght@600&family=Lilita+One&display=swap');
+
+
+.home-background{
+    background-image: url("images/velkozpic.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100%;
+}
+
+.background-builds{
+    background-image: url("images/infernal-velkoz.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100%;
+}
+
+.background-matchups{
+    background-image: url("images/velkoz22.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100%;
+}
+
+.title{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Black Ops One';
+    color: white;
+}
+
+#para1{
+    text-align: center;
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:2150px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+#para2{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:600px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+#para3{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:600px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+#para4{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:600px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+.title2{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Black Ops One';
+    color: goldenrod;
+}
+
+#para5{
+    text-align: center;
+    font-size: 30px;
+    color:greenyellow;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: 'Klee One';
+    border:groove;
+    width:400px;
+}
+
+#list1{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:500px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+#para6{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: 'Klee One';
+    border:groove;
+    width:450px;
+}
+
+#list2{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:425px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+/* PAGE ONE ^^^^^ */
+
+.headding{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Black Ops One';
+    color: white;
+}
+
+#para7{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:600px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+}
+
+.pic1{
+    display: block;
+    margin-left: 12%;
+    margin-right: 12%;
+    width: 20%;
+}
+
+#para8{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: 'Klee One';
+    border:groove;
+    width:450px;
+    background:rgba(0,0,0,0.5);
+}
+
+#list3{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:240px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+
+}
+
+#para9{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: 'Klee One';
+    border:groove;
+    width:450px;
+    background:rgba(0,0,0,0.5);
+
+}
+
+#list4{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:240px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+
+}
+
+#para10{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:600px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+
+}
+
+#para11{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: 'Klee One';
+    border:groove;
+    width:450px;
+    background:rgba(0,0,0,0.5);
+
+}
+
+#list5{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:240px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+
+}
+
+#para12{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:600px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+
+}
+
+#para13{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: 'Klee One';
+    border:groove;
+    width:470px;
+    background:rgba(0,0,0,0.5);
+
+}
+
+#list6{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:240px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+
+}
+
+#para14{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:600px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+
+}
+
+/* PAGE TWO ^^^^^^^^ */
+
+
+#para15{
+    text-align: center;
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:2000px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+
+}
+
+#para16{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: 'Klee One';
+    border:groove;
+    width:450px;
+
+}
+
+#para17{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:500px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+
+}
+
+#list7{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:300px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+
+}
+
+#para18{
+    text-align: center;
+    font-size: 30px;
+    color: greenyellow;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: 'Klee One';
+    border:groove;
+    width:450px;
+
+}
+
+#para19{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:500px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+
+}
+
+#list8{
+    color:white;
+    font-family: 'Klee One';
+    box-sizing: border-box; 
+    background:rgba(0,0,0,0.4);
+    width:300px;
+    padding: 25px;
+    border: none; 
+    margin: 20px
+
+}
+
+/* PAGE THREE ^^^^ */
+
+.nav{
+    text-align: center;
+    font-family: 'Black Ops One';
+    font-size: 50px;
+    text-decoration: none;
+    background:aliceblue;
+    background: rgba(240, 248, 255, 0.8)
+
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    color:black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: blueviolet;
+    font-weight: bold;
+}
+
+a{
+    display:block;
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+
+
+/* NAV BAR ^^^^ */
+
+.posneg{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.text1{
+    display:flex;
+    justify-content: center;
+}
+
+.text2{
+    display:flex;
+    justify-content: center;
+}
+
+.text3{
+    display:flex;
+    justify-content: center;
+}
+
+/* PAGE THREE FLEX ^^^^^^^ */
+
+.text4{
+    display:flex;
+    justify-content: space-around;
+}
+
+.text5{
+    display:flex;
+    justify-content: space-around;
+}
+
+.text6{
+    display:flex;
+    justify-content: space-around;
+}
+
+.text7{
+    display:flex;
+    justify-content: space-around;
+}
+
+.text8{
+    display:flex;
+    justify-content: space-around;
+}
+
+.text9{
+    display:flex;
+    justify-content: space-evenly;
+}
+/* .pic1{
+    display: flex;
+    justify-content: flex-start;
+} */
+.pic1{
+    opacity: 0.7;
+}
+
+/* PAGE TWO FLEX ^^^^^^ */
+
+.text10{
+    display:flex;
+    justify-content: center;
+}
+
+.text11{
+    display:flex;
+    justify-content: space-around;
+}
+
+.text12{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.posneglist{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.text13{
+    display:flex;
+    justify-content: flex-end;
+}
+
+.posneglist2{
+    display: flex;
+    justify-content: flex-end;
+}
+
+/* PAGE ONE FLEX ^^^^^ */
